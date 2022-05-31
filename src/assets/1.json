@@ -1,0 +1,38 @@
+{
+  "name": "NFT-Collection #9",
+  "symbol": "jakal",
+  "description": "Remember to replace this description",
+  "seller_fee_basis_points": 1000,
+  "image": "9.png",
+  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "edition": 9,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "matte"
+    },
+    {
+      "trait_type": "goo",
+      "value": "shirtless"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Gr7fWxnKEkQAaYR7TBbApq2V4n9aa52YoAaW6asyy4Hq",
+        "share": 100
+      }
+    ]
+  }
+}
